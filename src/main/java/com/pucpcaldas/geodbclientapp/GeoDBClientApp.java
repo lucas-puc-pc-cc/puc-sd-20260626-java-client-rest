@@ -17,7 +17,7 @@ public class GeoDBClientApp {
 
     // Chave de API para autenticação com o serviço GeoDB
     // YES!!!!!!!!!!!!! THE KEY IS HERE IN THE CODE
-    private static final String API_KEY = "1bfdcb4a86mshf4ee4ce59811ec7p188cecjsn49c81557acb2";
+    private static final String API_KEY = "_____________________";
 
     /**
      * Método que realiza uma requisição HTTP para a API GeoDB Cities
